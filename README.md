@@ -11,8 +11,8 @@ If you are looking for editing and saving files, please use [Duplicity](https://
 
 ## Acknowledges
 
-I would like to extend my sincere appreciation to RoboPhred for developing 
-the original oni-save-parser, and to Bryan Gonzalez for his C# port. 
+I would like to express my sincere appreciation to RoboPhred for developing 
+the original oni-save-parser and to Bryan Gonzalez for his C# port. 
 Additionally, special thanks are owed to [SGT_Imalas](https://github.com/Sgt-Imalas) for
 providing valuable guidance on handling specialties in the save game files.
 
