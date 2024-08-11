@@ -35,5 +35,6 @@ data class GameInfo(
     val worldTraits: List<String>?,
     val sandboxEnabled: Boolean,
     val colonyGuid: String,
-    val dlcId: String
+    val dlcId: String? = null,
+    val dlcIds: List<String>? = null
 )

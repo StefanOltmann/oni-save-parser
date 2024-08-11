@@ -1,0 +1,33 @@
+### Oxygen Not Included save game
+Version   : 7.28
+Cluster   : Terra
+Seed      : SNDST-A-1519667830-0-0
+Base name : The Super Duper Laboratory
+Cycles    : 9
+Dupes     : 3
+Sandbox   : false
+DLC       : 
+Play time : 3730.0667
+Placed #  : 3
+Mods      : []
+
+# Terra Asteroid
+Start   : true
+Offset  : 0,0
+Size    : 256 x 384
+Traits  : 
+Geyser 1: Chlorine Gas Vent @ 28,67
+Geyser 2: Salt Water Geyser @ 52,40
+Geyser 3: Carbon Dioxide Vent @ 60,241
+Geyser 4: Minor Volcano @ 72,244
+Geyser 5: Salt Water Geyser @ 97,102
+Geyser 6: Cool Steam Vent @ 100,290
+Geyser 7: Cool Steam Vent @ 126,126
+Geyser 8: Cool Salt Slush Geyser @ 146,300
+Geyser 9: Hot Polluted Oxygen Vent @ 167,138
+Geyser 10: Natural Gas Geyser @ 190,121
+Geyser 11: Salt Water Geyser @ 192,279
+Geyser 12: Chlorine Gas Vent @ 195,160
+Geyser 13: Chlorine Gas Vent @ 220,89
+Geyser 14: Carbon Dioxide Vent @ 241,282
+

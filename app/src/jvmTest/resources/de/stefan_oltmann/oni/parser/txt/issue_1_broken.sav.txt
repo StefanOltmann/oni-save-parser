@@ -1,0 +1,35 @@
+### Oxygen Not Included save game
+Version   : 7.34
+Cluster   : Terra
+Seed      : SNDST-A-1549625919-0-0
+Base name : The Super Asteroid
+Cycles    : 0
+Dupes     : 3
+Sandbox   : false
+DLC       : null
+Play time : 13.033333
+Placed #  : 1
+Mods      : []
+
+# Terra Asteroid
+Start   : true
+Offset  : 0,0
+Size    : 256 x 384
+Traits  : 
+Geyser 1: Infectious Polluted Oxygen Vent @ 17,133
+Geyser 2: Leaky Oil Fissure @ 40,145
+Geyser 3: Cool Steam Vent @ 40,253
+Geyser 4: Salt Water Geyser @ 50,66
+Geyser 5: Cool Steam Vent @ 54,173
+Geyser 6: Steam Vent @ 79,133
+Geyser 7: Natural Gas Geyser @ 115,233
+Geyser 8: Leaky Oil Fissure @ 115,248
+Geyser 9: Polluted Water Vent @ 145,50
+Geyser 10: Natural Gas Geyser @ 150,225
+Geyser 11: Leaky Oil Fissure @ 169,60
+Geyser 12: Hot Polluted Oxygen Vent @ 207,297
+Geyser 13: Chlorine Gas Vent @ 208,76
+Geyser 14: Leaky Oil Fissure @ 210,153
+Geyser 15: Gold Volcano @ 218,233
+Geyser 16: Iron Volcano @ 235,302
+

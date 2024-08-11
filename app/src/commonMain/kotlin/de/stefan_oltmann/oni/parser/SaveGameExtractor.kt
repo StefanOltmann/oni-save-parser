@@ -234,7 +234,12 @@ fun SaveGame.getGeysers(): List<Geyser> {
 
         val resolvedTypeName = if (name == "GeyserGeneric") {
 
-            val isDlc = header.gameInfo.dlcId.isNotEmpty()
+            /*
+             * Note that this format is also possible:
+             * "dlcId":null,"dlcIds":[""]
+             */
+            val isDlc = !header.gameInfo.dlcId.isNullOrBlank() ||
+                header.gameInfo.dlcIds?.any { it.isNotBlank() } == true
 
             val relevantList = if (isDlc)
                 genericGeysersDlc

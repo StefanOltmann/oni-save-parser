@@ -38,6 +38,10 @@ class ParseTest {
         /* One extra map */
         paths.add("$BASE_PATH/dlc_terra_reveal.sav")
 
+        /* Maps from issues */
+        paths.add("$BASE_PATH/issue_1_working.sav")
+        paths.add("$BASE_PATH/issue_1_broken.sav")
+
         for (path in paths) {
 
             val file = File(path)
